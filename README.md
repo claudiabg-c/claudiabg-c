@@ -5,6 +5,7 @@
     <a href="mailto:claudia.berrocalgomez@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
 
+
 ## About Me
 
 My name is Claudia Berrocal, and I am a hard working :muscle:, multidisciplinary and detail focussed :eyes: front-end developer :woman_technologist: that always tryes to improve and learn new things🎓.
@@ -17,11 +18,14 @@ I love reading :green_book:, movies :clapper: and videogames🖱️. And I also 
 
 I am always open to new ideas and opportunities. You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/claudia-berrocal/) or reach out to me directly through [my email account](mailto:claudia.berrocalgomez@gmail.com)
 
+---
 
 - 💬 Ask me about **HTML5, CSS3, Javascript and React**
 - ⚡ Fun fact: Big Fan of Harry Potter and the wizarding world :mage_woman::sparkles:
 
-**:star2: Latest Porjects and collaborations :star2:**
+---
+
+**:star2: Latest Projects and collaborations :star2:**
 
 <!-- BLOG-POST-LIST:START -->
 - [Harry Potter character's search page](http://beta.adalab.es/modulo-3-evaluacion-final-claudiabg-c/#/)
@@ -33,8 +37,19 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 - [Create cards web app](https://undefined-awesome-cards.herokuapp.com/#/)
 <!-- BLOG-POST-LIST:END -->
 
-<!--📊 **Weekly development breakdown**  -->
+---
 
-<!--START_SECTION:waka-->
+<h3>
+  This is the stuff I normally use to build my projects :hammer:
+</h3>
 
-<!--END_SECTION:waka-->
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="react" width="60" height="60"/>
+</p>
