@@ -9,7 +9,9 @@
 
 My name is Claudia Berrocal, and I am a hard working :muscle:, multidisciplinary and detail focussed :eyes: front-end developer :woman_technologist: that always tryes to improve and learn new things🎓.
 
-I currently live in Spain but I'm not tied up here, I would actually love to go live somewhere else for a while :earth_asia:. I previously worked as a lawyer in Data Privacy :unlock: but then I decided to change my life and I realized I like more developing web sites than scooping through them for privacy leaks.
+I currently live in Spain but I'm not tied up here, I would actually love to go live somewhere else for a while :earth_asia:. 
+
+I previously worked as a lawyer in Data Privacy :unlock: but then I decided to change my life and I realized that I prefer developing web sites than scooping through them for privacy leaks.
 
 I love reading :green_book:, movies :clapper: and videogames🖱️. And I also enjoy a lot playing board games and solving puzzles🧩.
 
