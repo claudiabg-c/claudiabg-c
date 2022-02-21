@@ -12,15 +12,17 @@ My name is Claudia Berrocal, and I am a hard working :muscle:, multidisciplinary
 
 I currently live in Spain but I'm not tied up here, I would actually love to go live somewhere else for a while :earth_asia:. 
 
-I previously worked as a lawyer in Data Privacy :unlock: but then I decided to change my life and I realized that I prefer developing web sites than scooping through them for privacy leaks.
+I previously worked as a lawyer in Data Privacy :unlock: but then I decided to change my life and I realized that I prefer developing web sites than scooping through them for privacy leaks :mag:.
 
 I love reading :green_book:, movies :clapper: and videogames🖱️. And I also enjoy a lot playing board games and solving puzzles🧩.
 
 I am always open to new ideas and opportunities. You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/claudia-berrocal/) or reach out to me directly through [my email account](mailto:claudia.berrocalgomez@gmail.com)
 
+
 ---
 
 - 💬 Ask me about **HTML5, CSS3, Javascript and React**
+
 - ⚡ Fun fact: Big Fan of Harry Potter and the wizarding world :mage_woman::sparkles:
 
 ---
@@ -53,3 +55,10 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="react" width="60" height="60"/>
 </p>
+
+---
+
+<h2 align="center">:sparkles: Thanks for reading! :sparkles:</h2>
+<div align="center">
+<img src="https://c.tenor.com/ATBZljPQYCQAAAAd/bye-im-off-to-hogwarts-harry-potter.gif" alt="harry potter gif" width="300">
+</div>
