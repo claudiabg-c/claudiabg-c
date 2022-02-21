@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there! I'm Claudia! 👋.</h1>
+<p align="center">
+  <a href="https://twitter.com/c_berrocal_">Twitter</a>
+</p>
 
 <!--
 **claudiabg-c/claudiabg-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
