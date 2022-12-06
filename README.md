@@ -58,6 +58,12 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 
 ---
 
+<div align="center">
+<img src="https://wakatime.com/share/@c_berrocal_/5f8362c0-5dfc-4822-b111-226564c053c8.svg" height="300px"/>
+</div>
+
+---
+
 <h2 align="center">:sparkles: Thanks for reading! :sparkles:</h2>
 <div align="center">
 <img src="https://c.tenor.com/ATBZljPQYCQAAAAd/bye-im-off-to-hogwarts-harry-potter.gif" alt="harry potter gif" width="300">
