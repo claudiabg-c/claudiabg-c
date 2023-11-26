@@ -1,8 +1,8 @@
 <h2 align="center">Hi there! I'm Claudia! 👋</h2>
 <p align="center">
-  <a href="https://twitter.com/c_berrocal_"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
-    <a href="https://www.linkedin.com/in/claudia-berrocal/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-    <a href="mailto:claudia.berrocalgomez@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
+  <a href="https://twitter.com/c_berrocal_" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
+    <a href="https://www.linkedin.com/in/claudia-berrocal/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
+    <a href="mailto:claudia.berrocalgomez@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
 
 
@@ -21,7 +21,7 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 
 ---
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, AngularJS and React**
+- 💬 Ask me about **HTML5, CSS3, Javascript, AngularJS, React, movies and books**
 
 - ⚡ Fun fact: Big Fan of Harry Potter and the wizarding world :mage_woman::sparkles:
 
@@ -30,6 +30,7 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 **:star2: Latest Projects and collaborations :star2:**
 
 <!-- BLOG-POST-LIST:START -->
+- [My dev portfolio](https://claudiabg-c.github.io/my-dev-portfolio)
 - [Harry Potter character's search page](https://claudiabg-c.github.io/Harry-Potter-character-searcher-React/#/)
 - [Anime search engine](https://claudiabg-c.github.io/Anime-search-engine-Javascript/)
 - [Layout landing page](https://claudiabg-c.github.io/Layout-landing-page-HTML5-CSS3/)
@@ -52,16 +53,17 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-plain-wordmark.svg" alt="grunt" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-plain-wordmark.svg" alt="grunt" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://wakatime.com/share/@c_berrocal_/5f8362c0-5dfc-4822-b111-226564c053c8.svg" height="300px"/>
+<img src="https://wakatime.com/share/@c_berrocal_/b5cac37b-61f8-4cde-89bd-a5bac2b84a83.svg" height="300px"/>
 </div>
 
 ---
