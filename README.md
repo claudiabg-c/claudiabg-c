@@ -63,7 +63,7 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 ---
 
 <div align="center">
-<img src="https://wakatime.com/share/@c_berrocal_/b5cac37b-61f8-4cde-89bd-a5bac2b84a83.svg" height="300px"/>
+<img src="https://wakatime.com/share/@c_berrocal_/63665148-ba5b-4858-bcc6-f63d5bc26d90.svg" height="300px"/>
 </div>
 
 ---
