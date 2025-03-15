@@ -37,8 +37,7 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 - [Anime search engine](https://claudiabg-c.github.io/Anime-search-engine-Javascript/)
 - [Layout landing page](https://claudiabg-c.github.io/Layout-landing-page-HTML5-CSS3/)
 - [Rock, paper, scissors](https://claudiabg-c.github.io/Rock-paper-scissors-Javascript/)
-- [Hangman game](http://beta.adalab.es/promo-O-module-3-pair-1-sprint-2-hangman-game/#/)
-- [Create cards web app](https://undefined-awesome-cards.herokuapp.com/#/)
+- [Hangman game](https://claudiabg-c.github.io/Hangman-game-React/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
