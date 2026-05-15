@@ -32,11 +32,10 @@ I am always open to new ideas and opportunities. You can learn more about me on 
 <!-- BLOG-POST-LIST:START -->
 - [My dev portfolio](https://claudiabg-c.github.io/my-dev-portfolio)
 - [Artist website](https://claudiabg-c.github.io/artist-personal-website)
-- [Board Game Buddy](https://claudiabg-c.github.io/board-game-buddy)
+- [Rock, paper, scissors](https://claudiabg-c.github.io/Rock-paper-scissors-Javascript/)
 - [Harry Potter character's search page](https://claudiabg-c.github.io/Harry-Potter-character-searcher-React/#/)
 - [Anime search engine](https://claudiabg-c.github.io/Anime-search-engine-Javascript/)
 - [Layout landing page](https://claudiabg-c.github.io/Layout-landing-page-HTML5-CSS3/)
-- [Rock, paper, scissors](https://claudiabg-c.github.io/Rock-paper-scissors-Javascript/)
 - [Hangman game](https://claudiabg-c.github.io/Hangman-game-React/)
 <!-- BLOG-POST-LIST:END -->
 
